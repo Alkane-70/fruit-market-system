@@ -1,0 +1,9 @@
+POST http://localhost:8080/fruit/add
+Content-Type:application.json
+
+{
+    "number":"99",
+    "name":"测试大西瓜",
+    "price":99.9,
+    "unit":"斤"
+}
